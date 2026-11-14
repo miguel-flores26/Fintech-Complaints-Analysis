@@ -1,0 +1,105 @@
+company,parent_group,company_type,fintech_segment,confidence,note
+"Block, Inc.","Block, Inc.",fintech,payments_p2p,high,Cash App
+WELLS FARGO & COMPANY,WELLS FARGO & COMPANY,bank,,high,
+JPMORGAN CHASE & CO.,JPMORGAN CHASE & CO.,bank,,high,
+"BANK OF AMERICA, NATIONAL ASSOCIATION","BANK OF AMERICA, NATIONAL ASSOCIATION",bank,,high,
+"Paypal Holdings, Inc",PayPal,fintech,payments_p2p,high,PayPal and Venmo
+Chime Financial Inc,Chime,fintech,neobank,high,Accounts provided through partner banks
+"Early Warning Services, LLC","Early Warning Services, LLC",bank_owned_network,,high,Operator of Zelle; owned by large banks. Kept separate so analyses can group it either way
+NAVY FEDERAL CREDIT UNION,NAVY FEDERAL CREDIT UNION,credit_union,,high,
+CAPITAL ONE FINANCIAL CORPORATION,CAPITAL ONE FINANCIAL CORPORATION,bank,,high,
+"CITIBANK, N.A.","CITIBANK, N.A.",bank,,high,
+U.S. BANCORP,U.S. BANCORP,bank,,high,
+TRUIST FINANCIAL CORPORATION,TRUIST FINANCIAL CORPORATION,bank,,high,
+PNC Bank N.A.,PNC Bank N.A.,bank,,high,
+TD BANK US HOLDING COMPANY,TD BANK US HOLDING COMPANY,bank,,high,
+AMERICAN EXPRESS COMPANY,AMERICAN EXPRESS COMPANY,bank,,medium,Card issuer with bank charter; prepaid complaints likely from its prepaid products
+"Coinbase, Inc.","Coinbase, Inc.",fintech,crypto,high,
+UNITED SERVICES AUTOMOBILE ASSOCIATION,UNITED SERVICES AUTOMOBILE ASSOCIATION,bank,,high,USAA Federal Savings Bank
+"CITIZENS FINANCIAL GROUP, INC.","CITIZENS FINANCIAL GROUP, INC.",bank,,high,
+"SOFI TECHNOLOGIES, INC.",SoFi,digital_bank,,medium,Started as a fintech lender; now operates a chartered bank. Branchless
+Comerica,Comerica,bank,,medium,Prepaid complaints likely tied to a government benefit card program; verify
+ALLY FINANCIAL INC.,ALLY FINANCIAL INC.,digital_bank,,high,Chartered online-only bank
+FIFTH THIRD FINANCIAL CORPORATION,FIFTH THIRD FINANCIAL CORPORATION,bank,,high,
+ROBINHOOD MARKETS INC.,ROBINHOOD MARKETS INC.,fintech,investing,high,
+"HUNTINGTON NATIONAL BANK, THE","HUNTINGTON NATIONAL BANK, THE",bank,,high,
+GOLDMAN SACHS BANK USA,GOLDMAN SACHS BANK USA,digital_bank,,medium,Consumer deposits are online-only (Marcus)
+Netspend Corporation,Netspend Corporation,fintech,prepaid_program,high,
+BMO BANK NATIONAL ASSOCIATION,BMO BANK NATIONAL ASSOCIATION,bank,,high,
+REGIONS FINANCIAL CORPORATION,REGIONS FINANCIAL CORPORATION,bank,,high,
+Incomm Holdings Inc.,Incomm Holdings Inc.,fintech,prepaid_program,medium,Prepaid and gift card network/processor
+KEYCORP,KEYCORP,bank,,high,
+M&T BANK CORPORATION,M&T BANK CORPORATION,bank,,high,
+DISCOVER BANK,DISCOVER BANK,digital_bank,,medium,"Online-only deposits; complaints under this name end Mar 2026, possibly after a corporate change; verify"
+"WESTERN UNION COMPANY, THE","WESTERN UNION COMPANY, THE",money_service_business,,high,Traditional (pre-fintech) money transmitter
+TransferWise Ltd,TransferWise Ltd,fintech,remittance,high,Wise
+"Credit Karma, LLC","Credit Karma, LLC",fintech,consumer_finance_app,medium,
+FinCo Services Inc DBA Current,FinCo Services Inc DBA Current,fintech,neobank,high,
+"Fidelity National Information Services, Inc. (FNIS)","Fidelity National Information Services, Inc. (FNIS)",processor_vendor,,medium,Payment processor / banking technology vendor
+FISERV FINXACT CORE,FISERV FINXACT CORE,processor_vendor,,medium,Payment processor / banking technology vendor
+SYNCHRONY FINANCIAL,SYNCHRONY FINANCIAL,digital_bank,,medium,Card issuer; consumer deposits are online-only
+"SANTANDER HOLDINGS USA, INC.",Santander,bank,,high,"Same group as SANTANDER BANK, NATIONAL ASSOCIATION"
+Winklevoss Exchange LLC,Winklevoss Exchange LLC,fintech,crypto,high,Gemini
+Conduent Incorporated,Conduent Incorporated,processor_vendor,,medium,Runs government benefit payment programs
+MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,money_service_business,,high,Traditional money transmitter
+HSBC NORTH AMERICA HOLDINGS INC.,HSBC NORTH AMERICA HOLDINGS INC.,bank,,high,
+"Foris DAX, Inc.","Foris DAX, Inc.",fintech,crypto,medium,Believed to be the US entity behind Crypto.com; verify
+"CHARLES SCHWAB CORPORATION, THE","CHARLES SCHWAB CORPORATION, THE",bank,,medium,Brokerage with a bank subsidiary
+PENTAGON FEDERAL CREDIT UNION,PENTAGON FEDERAL CREDIT UNION,credit_union,,high,
+MoneyLion Inc.,MoneyLion Inc.,fintech,neobank,high,
+Blackhawk Network Holdings Inc.,Blackhawk Network Holdings Inc.,fintech,prepaid_program,medium,Gift and prepaid card network
+"WEBSTER BANK, NATIONAL ASSOCIATION","WEBSTER BANK, NATIONAL ASSOCIATION",bank,,high,
+MORGAN STANLEY & CO. LLC,MORGAN STANLEY & CO. LLC,other,,medium,Broker-dealer entity
+BAM Management US Holdings Inc.,BAM Management US Holdings Inc.,fintech,crypto,medium,Believed to be Binance.US operator; verify
+"Remitly, Inc.","Remitly, Inc.",fintech,remittance,high,
+"OPTUM BANK, INC.","OPTUM BANK, INC.",bank,,medium,Health savings account bank
+"AXOS FINANCIAL, INC.","AXOS FINANCIAL, INC.",digital_bank,,high,Chartered online-only bank
+ADP Inc.,ADP Inc.,processor_vendor,,medium,Payroll provider; payroll cards
+BBVA FINANCIAL CORPORATION,BBVA FINANCIAL CORPORATION,bank,,high,Complaints end Aug 2021 (acquired)
+Google Compare Credit Cards Inc.,Google Compare Credit Cards Inc.,fintech,big_tech_payments,medium,Name CFPB lists for Google; likely Google Pay/Wallet; verify
+"FIRST CITIZENS BANCSHARES, INC.","FIRST CITIZENS BANCSHARES, INC.",bank,,high,
+Payward Ventures Inc. dba Kraken,Payward Ventures Inc. dba Kraken,fintech,crypto,high,
+Albert Corporation,Albert Corporation,fintech,neobank,high,
+FIRST HORIZON BANK,FIRST HORIZON BANK,bank,,high,
+NEW YORK COMMUNITY BANCORP INC,NEW YORK COMMUNITY BANCORP INC,bank,,high,
+Experian Information Solutions Inc.,Experian Information Solutions Inc.,other,,high,Credit bureau
+"Skrill USA, Inc.","Skrill USA, Inc.",fintech,payments_p2p,medium,Digital wallet
+VYSTAR CREDIT UNION,VYSTAR CREDIT UNION,credit_union,,high,
+BARCLAYS BANK DELAWARE,BARCLAYS BANK DELAWARE,digital_bank,,medium,Card issuer; consumer deposits are online-only
+"UPGRADE, INC.","UPGRADE, INC.",fintech,neobank,medium,Lending plus accounts through a partner bank
+BANK OF THE WEST,BANK OF THE WEST,bank,,high,Complaints end Mar 2023 (acquired)
+SUNCOAST CREDIT UNION,SUNCOAST CREDIT UNION,credit_union,,high,
+"Bread Financial Holdings, Inc.","Bread Financial Holdings, Inc.",digital_bank,,medium,Card issuer; consumer deposits are online-only
+Revolut Technologies Inc.,Revolut Technologies Inc.,fintech,neobank,high,
+"Dave Operating, LLC","Dave Operating, LLC",fintech,neobank,high,
+"BANK OF NEW YORK MELLON CORPORATION, THE","BANK OF NEW YORK MELLON CORPORATION, THE",bank,,medium,Mainly custody/processing; consumer complaints may involve programs it services
+"ARVEST BANK GROUP, INC.","ARVEST BANK GROUP, INC.",bank,,high,
+STATE EMPLOYEES’ CREDIT UNION,STATE EMPLOYEES’ CREDIT UNION,credit_union,,high,
+"CULLEN/FROST BANKERS, INC.","CULLEN/FROST BANKERS, INC.",bank,,high,
+"EQUIFAX, INC.","EQUIFAX, INC.",other,,high,Credit bureau
+BOEING EMPLOYEES' CREDIT UNION,BOEING EMPLOYEES' CREDIT UNION,credit_union,,high,
+"GOLDEN 1 CREDIT UNION, THE","GOLDEN 1 CREDIT UNION, THE",credit_union,,high,
+"Relay Financial (US), Corp.","Relay Financial (US), Corp.",fintech,business_banking,high,
+ALLIANT CREDIT UNION,ALLIANT CREDIT UNION,credit_union,,high,
+FIRST NATIONAL BANK OF OMAHA,FIRST NATIONAL BANK OF OMAHA,bank,,high,
+Newport Intermediate Inc.,Newport Intermediate Inc.,needs_research,,low,Could not identify; mostly prepaid complaints
+RANDOLPH-BROOKS FEDERAL CREDIT UNION,RANDOLPH-BROOKS FEDERAL CREDIT UNION,credit_union,,high,
+ZIONS BANCORPORATION,ZIONS BANCORPORATION,bank,,high,
+"Affirm Holdings, Inc","Affirm Holdings, Inc",fintech,bnpl,high,
+"Blockchain.com, Inc.","Blockchain.com, Inc.",fintech,crypto,high,
+"Branch Messenger, Inc.","Branch Messenger, Inc.",fintech,earned_wage_payouts,medium,
+Meta Payments Inc.,Meta Payments Inc.,fintech,big_tech_payments,high,
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.","TRANSUNION INTERMEDIATE HOLDINGS, INC.",other,,high,Credit bureau
+BANCO POPULAR DE PUERTO RICO,BANCO POPULAR DE PUERTO RICO,bank,,high,
+"SANTANDER BANK, NATIONAL ASSOCIATION",Santander,bank,,high,Same group as SANTANDER HOLDINGS USA
+AMERICA FIRST FEDERAL CREDIT UNION,AMERICA FIRST FEDERAL CREDIT UNION,credit_union,,high,
+OLD NATIONAL BANCORP,OLD NATIONAL BANCORP,bank,,high,
+ASSOCIATED BANC-CORP,ASSOCIATED BANC-CORP,bank,,high,
+FIRST NATIONAL BANK OF PENNSYLVANIA,FIRST NATIONAL BANK OF PENNSYLVANIA,bank,,high,
+"Ria Envia, LLC","Ria Envia, LLC",money_service_business,,high,Traditional money transmitter
+MOUNTAIN AMERICA FEDERAL CREDIT UNION,MOUNTAIN AMERICA FEDERAL CREDIT UNION,credit_union,,high,
+First Technology Federal Credit Union,First Tech FCU,credit_union,,high,Appears under two spellings
+Chime Inc.,Chime,fintech,neobank,high,Second CFPB name for Chime
+FIRST TECHNOLOGY FEDERAL CREDIT UNION,First Tech FCU,credit_union,,high,Appears under two spellings
+"Social Finance, Inc.",SoFi,digital_bank,,medium,Earlier CFPB name for SoFi (2021-2022)
+XOOM CORPORATION,PayPal,fintech,remittance,high,PayPal-owned remittance service
