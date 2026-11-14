@@ -37,6 +37,7 @@ SELECT
   s.tags,
   s.company_response,
   s.company_response <> 'In progress'      AS is_closed,
+  s.timely_response = 'Yes'                AS is_timely,
   s.company_response IN ('Closed with monetary relief',
                          'Closed with non-monetary relief') AS is_relief,
   DATE_DIFF(s.date_sent_to_company, s.date_received, DAY) AS days_to_company
